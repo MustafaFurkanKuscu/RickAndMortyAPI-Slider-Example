@@ -1,0 +1,18 @@
+.character-card div{
+    background: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: space-between;
+    padding: 1em;
+    position: relative;
+    bottom: 3.05em;
+    max-width: 268px;
+    max-height: 17px;
+}
+.character-card div span{
+    color:#ffffff;
+    font-size: 15px;
+}
+.characters{
+     margin-left: 21%;
+     margin-top: 13%;   
+}
